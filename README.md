@@ -3,7 +3,7 @@
 A real-time weather application built with Vanilla JavaScript that fetches data from the OpenWeatherMap API.
 
 ##  Live Demo
-[KËTU NGJIT LINKUN QË MORRE NGA GITHUB PAGES]
+https://florian100.github.io/Weather-App/
 
 ## 🛠️ Key Features
 - **Live Data Fetching:** Integrates with a REST API to get real-time weather information.
