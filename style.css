@@ -1,6 +1,5 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    /* Një background modern blu/qielli */
     background: linear-gradient(to bottom right, #FFFFFF, #00f2fe);
     display: flex;
     justify-content: center;
